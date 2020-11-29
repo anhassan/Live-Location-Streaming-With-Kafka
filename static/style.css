@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#heading{
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    color: gainsboro;
+    background-color: black;
+   justify-content: center; 
+}
+
+#mapid { height: 80vh; }

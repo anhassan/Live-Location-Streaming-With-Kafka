@@ -1,0 +1,8 @@
+#config.yaml file
+
+topic_name: "testTopic"
+host_ip: "127.0.0.1:9092"
+file_paths:
+- './Routes/route1.json'
+- './Routes/route2.json'
+- './Routes/route3.json'
